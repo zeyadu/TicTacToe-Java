@@ -1,0 +1,6 @@
+- My program contains 3 classes, each in a separate java class file.Thus, each class had to be public so that they can be accessed from within the same package.
+- A Board class exists, which serves as the model.
+- A View class exists, which serves as the view to handle the user interface of the program.
+- A Game class exists, which has the main function and a play method. It serves as the controller to link between Board and View.
+- All classes are under a package called "tictactoe".
+- When running the program, enter row & column values as instructed. Note that entries are 0-based.
